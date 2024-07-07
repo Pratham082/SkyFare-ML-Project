@@ -1,4 +1,4 @@
-# SkyFare - Flight Price Prediction
+# Flight Price Prediction
 
 Welcome to the Flight Price Prediction project! This repository contains a machine learning model to predict flight prices based on various features such as airline, source, destination, and more. This project aims to help users get insights into flight prices and make informed decisions.
 
@@ -61,9 +61,21 @@ Several machine learning algorithms are utilized to train the model, including:
 
 The model's performance is evaluated using metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 
+## Methodology
+
+The overall methodology for the flight price prediction project is illustrated below:
+
+![Methodology](https://github.com/Pratham082/SkyFare-ML-Project/edit/main/images/Methodology.png)
+
 ## Evaluation
 
 The model is evaluated on the test dataset, and its performance is compared across different algorithms. Visualizations such as bar plots and scatter plots are used to depict the model's accuracy and prediction capabilities.
+
+## Data Visualization
+
+The data visualization for the flight price prediction project is shown below:
+
+![Data Visualization](https://github.com/Pratham082/SkyFare-ML-Project/edit/main/images/dataset_visualization_2.png)
 
 ## Installation
 
