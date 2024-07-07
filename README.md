@@ -65,7 +65,7 @@ The model's performance is evaluated using metrics such as Mean Absolute Error (
 
 The overall methodology for the flight price prediction project is illustrated below:
 
-![Methodology](https://github.com/Pratham082/SkyFare-ML-Project/edit/main/images/Methodology.png)
+![Methodology](images/Methodology.png)
 
 ## Evaluation
 
@@ -75,7 +75,7 @@ The model is evaluated on the test dataset, and its performance is compared acro
 
 The data visualization for the flight price prediction project is shown below:
 
-![Data Visualization](https://github.com/Pratham082/SkyFare-ML-Project/edit/main/images/dataset_visualization_2.png)
+![Data Visualization](images/dataset_visualization_2.png)
 
 ## Installation
 
